@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.0: 2015-07-08
+
+- Stable release
+
 ## v0.0.4: 2015-07-06
 
 - Updated list
