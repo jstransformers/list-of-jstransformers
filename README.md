@@ -14,7 +14,7 @@ A cached JSON array of officially supported [JSTransformers](http://github.com/j
 ```js
 var jstransformers = require('list-of-jstransformers')
 
-jstransformers.each(function (name) {
+jstransformers.forEach(function (name) {
   console.log(name)
 })
 ```

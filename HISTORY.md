@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.4: 2015-07-23
+
+- Fix typo in README
+
 ## v1.0.3: 2015-07-23
 
 - Updated list
