@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.3: 2015-07-23
+
+- Updated list
+
 ## v1.0.2: 2015-07-15
 
 - Updated list
