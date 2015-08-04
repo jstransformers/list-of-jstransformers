@@ -1,5 +1,6 @@
 [
   "absurd",
+  "analyze-css",
   "atpl",
   "autoprefixer",
   "babel",
@@ -40,6 +41,7 @@
   "hogan",
   "html-beautify",
   "html-minifier",
+  "htmling",
   "ini",
   "j140",
   "jade",
@@ -79,6 +81,7 @@
   "sass",
   "scss",
   "slm",
+  "string-template",
   "styl",
   "stylecow",
   "stylus",
