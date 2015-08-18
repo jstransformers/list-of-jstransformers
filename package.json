@@ -1,6 +1,6 @@
 {
   "name": "list-of-jstransformers",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A cached JSON array of officially supported JSTransformers.",
   "keywords": [
     "jstransformer"
