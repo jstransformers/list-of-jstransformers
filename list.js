@@ -9,7 +9,13 @@ var ignore = [
 ]
 
 module.exports = function () {
-  return github('jstransformers').then(function (data) {
+  // Construct the options array.
+  var options = {
+    // Provide our own GitHub token.
+    token: process.env.npm_package_config_token || null
+  }
+
+  return github('jstransformers', options).then(function (data) {
     // Filter out all the none-Transforms
     var jstransformers = data.filter(function (value) {
       return value.name.indexOf('jstransformer-') === 0 &&

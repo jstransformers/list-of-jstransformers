@@ -26,5 +26,8 @@
     "url": "http://github.com/orgs/jstransformers/people"
   },
   "license": "MIT",
-  "main": "list-of-jstransformers.json"
+  "main": "list-of-jstransformers.json",
+  "config": {
+    "token": "d55f090d33ddcf9d5c6828be1d34c222ebcdb249"
+  }
 }
