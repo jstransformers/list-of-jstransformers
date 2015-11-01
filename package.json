@@ -1,6 +1,6 @@
 {
   "name": "list-of-jstransformers",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "A cached JSON array of officially supported JSTransformers.",
   "keywords": [
     "jstransformer"
@@ -9,7 +9,7 @@
     "list-of-jstransformers.json"
   ],
   "devDependencies": {
-    "github-repositories": "^2.1.1",
+    "github-repositories": "^2.1.2",
     "promise": "^7.0.4",
     "testit": "^2.0.2"
   },
