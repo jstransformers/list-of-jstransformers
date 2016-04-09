@@ -9,7 +9,7 @@
     "list-of-jstransformers.json"
   ],
   "devDependencies": {
-    "github-repositories": "^2.1.2",
+    "github-repositories": "^3.0.0",
     "promise": "^7.1.1",
     "testit": "^2.0.2"
   },
