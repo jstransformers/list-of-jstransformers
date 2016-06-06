@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.13: 2016-06-06
+
+- Removed `jstransformer-riot`
+
 ## v1.0.12: 2016-06-02
 
 - Updated list
