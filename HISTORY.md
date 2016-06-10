@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.14: 2016-06-06
+
+- Added `jstransformer-buble`
+
 ## v1.0.13: 2016-06-06
 
 - Removed `jstransformer-riot`
