@@ -1,6 +1,6 @@
 {
   "name": "list-of-jstransformers",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "A cached JSON array of officially supported JSTransformers.",
   "keywords": [
     "jstransformer"
@@ -26,8 +26,5 @@
     "url": "http://github.com/orgs/jstransformers/people"
   },
   "license": "MIT",
-  "main": "list-of-jstransformers.json",
-  "config": {
-    "token": "5b3a12128b4684ee10b8221cf3228b5715fa4571"
-  }
+  "main": "list-of-jstransformers.json"
 }
