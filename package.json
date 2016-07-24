@@ -11,7 +11,7 @@
   "devDependencies": {
     "github-repositories": "^3.0.0",
     "promise": "^7.1.1",
-    "testit": "^2.1.0"
+    "testit": "^2.1.1"
   },
   "scripts": {
     "build": "node build",
