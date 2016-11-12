@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.15: 2016-11-12
+
+- Updated list
+
 ## v1.0.14: 2016-06-06
 
 - Added `jstransformer-buble`
