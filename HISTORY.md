@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.18: 2016-12-24
+
+- Added Bracket-Template
+
 ## v1.0.17: 2016-12-19
 
 - No change
