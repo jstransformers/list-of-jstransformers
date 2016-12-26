@@ -1,7 +1,7 @@
 'use strict'
 
-var list = require('./list')
 var fs = require('fs')
+var list = require('./list')
 
 list().done(function (transforms) {
   var output = JSON.stringify(transforms, null, 2)

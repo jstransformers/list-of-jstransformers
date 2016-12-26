@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.1.0: 2016-12-26
+
+- Updated to use the [`jstransformer` npm keyword](https://www.npmjs.com/browse/keyword/jstransformer)
+  - By [@cspotcode](https://github.com/cspotcode)
+
 ## v1.0.18: 2016-12-24
 
 - Added Bracket-Template

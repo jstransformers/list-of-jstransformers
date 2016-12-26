@@ -1,6 +1,5 @@
 'use strict'
 
-var Promise = require('promise')
 var npmKeyword = require('npm-keyword')
 
 var ignore = [
