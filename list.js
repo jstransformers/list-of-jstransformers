@@ -8,7 +8,7 @@ var ignore = [
 ]
 
 module.exports = function () {
-  return Promise.resolve(npmKeyword.names('jstransformer')).then(function (data) {
+  return npmKeyword.names('jstransformer').then(function (data) {
     // Filter out all the none-Transforms
     var jstransformers = data.filter(function (name) {
       return name.indexOf('jstransformer-') === 0 &&
