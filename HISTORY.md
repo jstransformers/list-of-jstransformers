@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.1.1: 2017-12-05
+
+- Updated list
+
 ## v1.1.0: 2016-12-26
 
 - Updated to use the [`jstransformer` npm keyword](https://www.npmjs.com/browse/keyword/jstransformer)
