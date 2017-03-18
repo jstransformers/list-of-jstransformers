@@ -11,7 +11,7 @@
   "devDependencies": {
     "npm-keyword": "^4.2.0",
     "testit": "^2.1.3",
-    "xo": "^0.17.1"
+    "xo": "^0.18.0"
   },
   "scripts": {
     "build": "node build",
