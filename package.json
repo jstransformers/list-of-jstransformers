@@ -1,7 +1,8 @@
 {
   "name": "list-of-jstransformers",
+  "main": "list-of-jstransformers.json",
   "version": "1.2.0",
-  "description": "A cached JSON array of officially supported JSTransformers.",
+  "description": "JSON array of officially supported JSTransformers.",
   "keywords": [
     "jstransformer"
   ],
@@ -26,6 +27,5 @@
     "name": "JSTransformers Team",
     "url": "http://github.com/orgs/jstransformers/people"
   },
-  "license": "MIT",
-  "main": "list-of-jstransformers.json"
+  "license": "MIT"
 }

@@ -1,7 +1,8 @@
 # list-of-jstransformers
 
-A cached JSON array of [JSTransformers](http://github.com/jstransformers).
+A JSON array of [JSTransformers](http://github.com/jstransformers).
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/list-of-jstransformers.svg)](https://greenkeeper.io/)
 [![NPM version](https://img.shields.io/npm/v/list-of-jstransformers.svg)](https://www.npmjs.org/package/list-of-jstransformers)
 
 ## Installation
