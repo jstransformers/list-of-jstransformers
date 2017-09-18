@@ -149,6 +149,7 @@
   "typescript",
   "typeset",
   "uglify-css",
+  "uglify-es",
   "uglify-js",
   "underscore",
   "vash",
@@ -156,5 +157,6 @@
   "walrus",
   "webpack",
   "whiskers",
-  "xml2js"
+  "xml2js",
+  "yaml"
 ]
