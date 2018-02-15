@@ -20,6 +20,9 @@ module.exports = function () {
       return currentValue.replace('jstransformer-', '')
     })
 
+    // Sort the transformer list.
+    transforms.sort()
+
     return transforms
   })
 }
