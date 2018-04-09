@@ -1,7 +1,8 @@
 {
   "name": "list-of-jstransformers",
-  "version": "1.1.1",
-  "description": "A cached JSON array of officially supported JSTransformers.",
+  "main": "list-of-jstransformers.json",
+  "version": "1.4.0",
+  "description": "JSON array of officially supported JSTransformers.",
   "keywords": [
     "jstransformer"
   ],
@@ -9,14 +10,14 @@
     "list-of-jstransformers.json"
   ],
   "devDependencies": {
-    "npm-keyword": "^4.2.0",
-    "testit": "^2.1.3",
-    "xo": "^0.19.0"
+    "npm-keyword": "^5.0.0",
+    "testit": "^3.0.0",
+    "xo": "*"
   },
   "scripts": {
     "build": "node build",
     "test": "node test",
-    "posttest": "xo --space --no-semicolon"
+    "posttest": "xo --space=2 --no-semicolon"
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,5 @@
     "name": "JSTransformers Team",
     "url": "http://github.com/orgs/jstransformers/people"
   },
-  "license": "MIT",
-  "main": "list-of-jstransformers.json"
+  "license": "MIT"
 }

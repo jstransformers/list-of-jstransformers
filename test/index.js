@@ -1,13 +1,13 @@
-var test = require('testit')
-var assert = require('assert')
-var list = require('../list')
-var json = require('..')
+const test = require('testit')
+const assert = require('assert')
+const list = require('../list')
+const json = require('..')
 
-test('list-of-jstransformers.json is up to date', function (done) {
-  list().then(function (transforms) {
+test('list-of-jstransformers.json is up to date', done => {
+  list().then(transforms => {
     assert.deepEqual(transforms, json)
     done()
-  }, function (err) {
+  }, err => {
     done(err)
   })
 })
