@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.4.1: 2018-08-16
+
+- Updated list
+
 ## v1.4.0: 2018-02-15
 
 - Updated to `npm-keyword@5`
