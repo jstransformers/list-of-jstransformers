@@ -5,7 +5,7 @@ const json = require('..')
 
 test('list-of-jstransformers.json is up to date', done => {
   list().then(transforms => {
-    assert.deepEqual(transforms, json)
+    assert.deepStrictEqual(transforms, json)
     done()
   }, err => {
     done(err)
