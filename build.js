@@ -8,6 +8,6 @@ list().then(transforms => {
   fs.writeFileSync('list-of-jstransformers.json', output)
 }, err => {
   console.error(err)
-}).catch(err => {
-  console.error(err)
+}).catch(error => {
+  console.error(error)
 })

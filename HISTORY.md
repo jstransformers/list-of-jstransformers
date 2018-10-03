@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.4.2: 2018-10-03
+
+- Add inky
+
 ## v1.4.1: 2018-08-16
 
 - Updated list
