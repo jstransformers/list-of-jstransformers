@@ -9,5 +9,7 @@ test('list-of-jstransformers.json is up to date', done => {
     done()
   }, err => {
     done(err)
+  }).catch(error => {
+    console.error(error)
   })
 })

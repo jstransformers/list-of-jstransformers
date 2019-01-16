@@ -1,7 +1,7 @@
 {
   "name": "list-of-jstransformers",
   "main": "list-of-jstransformers.json",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "description": "JSON array of officially supported JSTransformers.",
   "keywords": [
     "jstransformer"

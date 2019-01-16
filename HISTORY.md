@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.4.4: 2019-01-15
+
+- Add escape-vuejs
+
 ## v1.4.3: 2018-10-03
 
 - Add inline-css
