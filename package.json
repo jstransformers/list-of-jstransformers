@@ -10,7 +10,7 @@
     "list-of-jstransformers.json"
   ],
   "devDependencies": {
-    "npm-keyword": "^5.0.0",
+    "npm-keyword": "^6.0.0",
     "testit": "^3.0.0",
     "xo": "*"
   },
