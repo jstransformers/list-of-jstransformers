@@ -10,14 +10,17 @@
     "list-of-jstransformers.json"
   ],
   "devDependencies": {
-    "npm-keyword": "^5.0.0",
-    "testit": "^3.0.0",
+    "npm-keyword": "^6.1.0",
+    "testit": "^3.1.0",
     "xo": "*"
   },
   "scripts": {
     "build": "node build",
     "test": "node test",
     "posttest": "xo --space=2 --no-semicolon"
+  },
+  "engines": {
+    "node": ">=7"
   },
   "repository": {
     "type": "git",
