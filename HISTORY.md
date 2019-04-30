@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.4.5: 2019-04-30
+
+- Add php
+
 ## v1.4.4: 2019-01-15
 
 - Add escape-vuejs
