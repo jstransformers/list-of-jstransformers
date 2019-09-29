@@ -1,5 +1,5 @@
-const test = require('testit')
 const assert = require('assert')
+const test = require('testit')
 const list = require('../list')
 const json = require('..')
 

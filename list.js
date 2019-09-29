@@ -12,7 +12,7 @@ module.exports = function () {
     // Filter out all the none-Transforms
     const jstransformers = data.filter(name => {
       return name.indexOf('jstransformer-') === 0 &&
-        ignore.indexOf(name) === -1
+        !ignore.includes(name)
     })
 
     // Remove the prefixing 'jstransformer-' from the name
