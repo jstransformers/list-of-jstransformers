@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.4.6: 2019-09-29
+
+- Add datauri, md, php-runtime, textile
+
 ## v1.4.5: 2019-04-30
 
 - Add php
