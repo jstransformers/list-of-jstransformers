@@ -2,7 +2,6 @@
 
 A JSON array of [JSTransformers](http://github.com/jstransformers).
 
-
 [![NPM version](https://img.shields.io/npm/v/list-of-jstransformers.svg)](https://www.npmjs.org/package/list-of-jstransformers)
 
 ## Installation
