@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.4.8: 2020-08-16
+
+- Add asciidoctor, lowlight, org
+
 ## v1.4.7: 2019-09-29
 
 - Add datauri, md, php-runtime, textile
