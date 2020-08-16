@@ -1,6 +1,7 @@
 [
   "absurd",
   "analyze-css",
+  "asciidoctor",
   "atpl",
   "autoprefixer",
   "babel",
@@ -86,6 +87,7 @@
   "liquor",
   "livescript",
   "lodash",
+  "lowlight",
   "markdown",
   "markdown-it",
   "markdown-yml",
@@ -110,6 +112,7 @@
   "nunjucks-node",
   "octet",
   "opalcss",
+  "org",
   "pfm",
   "php",
   "php-runtime",
